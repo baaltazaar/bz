@@ -1,0 +1,8 @@
+name: bz
+filePrefix: bz
+tickets:
+  github:
+    repo: bz
+    token: bz
+    username: baaltazaar
+approvedBranch: ""
